@@ -94,7 +94,7 @@ document.write("4 * 6 = " + six + "<br>");
 document.write("4 * 7 = " + seven + "<br>");
 document.write("4 * 8 = " + eight + "<br>");
 document.write("4 * 9 = " + nine + "<br>");
-document.write("4 * 10 = " + ten + "<br>" + "<br>");
+document.write("4 * 10 = " + ten + "<br>" + "<br>");g
 
 
 /*                  Question-06:
